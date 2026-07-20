@@ -17,4 +17,4 @@ Derrick
 ## How to Run
 1 . Download or clone the project.
 2 . Open the project folder.
-3 . Open `index.html` in a web browser.
+3 . Open `https://derrickwaithaka-boop.github.io/Derrick-photo-website/` in a web browser.
